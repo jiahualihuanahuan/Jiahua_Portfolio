@@ -15,14 +15,11 @@ Results: achieved 77% of accuracy to correctly predict receivers' geolocation
 | Model | Accuracy on FFT transformed data | Accuracy on Non transformed data |
 | ----------- | ----------- |----------- |
 | Random Forest | 55.73% | 65.26% |
-| KNN | 49.68 |57.42% |
-
-
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| KNN | 49.68% |57.42% |
+| Light GBM | 45.84% | 60.32% |
+| XGBoost | 51.00% |64.02% |
+| CatBoost | 53.10% |63.58% |
+| DNN | 71.05% |73.75% |
 
 
 Regression
