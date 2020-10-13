@@ -11,10 +11,10 @@ Classification
 ## [Project 3: Geolocation Classification](https://github.com/jiahualihuanahuan/geolocation-classification)
 
 Regression
-## [Project 4: Housing Price Prediction]
+## [Project 4: Housing Price Prediction](https://github.com/jiahualihuanahuan/)
 
 NLP
-## [Project 5: Amaozn Review or IMDB Review]
+## [Project 5: Amaozn Review or IMDB Review](https://github.com/jiahualihuanahuan/)
 
 
 
