@@ -10,6 +10,7 @@ t-test
 Classification
 ## [Project 3: Geolocation Classification](https://github.com/jiahualihuanahuan/geolocation-classification)
 Objectives: geolocation of Unknown Receiver using DL SL signal
+
 Results: achieved 77% of accuracy to correctly predict receivers' geolocation
 
 | Model | Accuracy on FFT transformed data | Accuracy on Non transformed data |
