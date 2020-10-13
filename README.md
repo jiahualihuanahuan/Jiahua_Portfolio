@@ -13,7 +13,7 @@ Objectives: geolocation of Unknown Receiver using DL SL signal
 Results: achieved 77% of accuracy to correctly predict receivers' geolocation
 
 | Model | Accuracy on FFT transformed data | Accuracy on Non transformed data |
-| ----------- | ----------- |
+| ----------- | ----------- |----------- |
 | Random Forest | 55.73% | 65.26% |
 | KNN | 49.68 |57.42% |
 
