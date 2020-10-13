@@ -21,6 +21,7 @@ Results: achieved above 70% of accuracy to correctly predict receivers' geolocat
 | XGBoost | 51.00% |64.02% |
 | CatBoost | 53.10% |63.58% |
 | DNN | 71.05% |73.75% |
+
 Model Comparison
 
 Regression
