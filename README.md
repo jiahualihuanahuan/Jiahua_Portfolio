@@ -17,6 +17,14 @@ Results: achieved 77% of accuracy to correctly predict receivers' geolocation
 | Random Forest | 55.73% | 65.26% |
 | KNN | 49.68 |57.42% |
 
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 Regression
 ## [Project 4: Housing Price Prediction](https://github.com/jiahualihuanahuan/)
 
